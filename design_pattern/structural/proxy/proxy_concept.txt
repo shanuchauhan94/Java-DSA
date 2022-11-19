@@ -1,0 +1,2 @@
+1- Used when you want to control access. i.e In database, you would want ot control the 'delete'
+   query available only for certain users like admin.

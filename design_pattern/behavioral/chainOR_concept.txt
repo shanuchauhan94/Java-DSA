@@ -1,0 +1,4 @@
+1- A design pattern that forms a sequentially connected component,
+   and helps consumers to simply pass the Object to the first component,
+   and then that object get processed by each component one after other as per the sequence.
+

@@ -1,0 +1,3 @@
+1- Used when we have too many arguments to send in the constructor & it's hard to maintain the order.
+2- When we don't want to send all parameters in Object initialisation (Generally we send optional parameter
+   as null).

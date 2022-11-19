@@ -1,0 +1,2 @@
+1- Only one instance of that class should exist.
+2- Used for logging, Cache,Session, Driver etc.
